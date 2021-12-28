@@ -17,3 +17,10 @@ const pontoFlutuanteSemZero = .5;
 const operacaoPontoFlutuante = numeroPontoFlutuante / pontoFlutuanteSemZero;
 
 console.log(operacaoPontoFlutuante);
+
+// representação do número PI
+
+Math.PI 
+
+console.log(Math.PI)
+
