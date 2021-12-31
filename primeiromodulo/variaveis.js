@@ -15,3 +15,5 @@ console.log(area);
 
 // Esse exemplo, temos a const (valor imutável), let (pode ser mudado, mas deve ser declarado antes) e por fim, area dentro do if é uma var, fora é let, mas dentro do if
 // por padrão, qualquer variável é var
+
+console.log(typeof forma);
