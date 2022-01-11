@@ -2,7 +2,7 @@
 
 const nomes = ["João", "Juliana", "Ana", "Caio", "Lara", "Fabiana", "Camilo", "Renata", "Daisy"];
 
-console.log("tamanho da array:", nomes.length)
+console.log("tamanho da array:", nomes.length);
                          //0, 10
 const sala1 = nomes.slice(0, nomes.length/2);
                          //10
