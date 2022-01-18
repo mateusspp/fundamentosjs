@@ -1,4 +1,4 @@
-// Exemplo de adição e alterção de valores em um objeto
+// Exemplo de adição e alteração de valores em um objeto
 
 const cliente = {
     nome:"André",
